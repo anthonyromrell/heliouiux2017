@@ -1,9 +1,26 @@
 body {
-    color: green;
-    background-color: lavender;
+    margin: 20px;
+    padding: 20px;
 }
 
-h2 {
-    color: red;
-    background-color: blue;
+div {    
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 4em;
+}
+
+div p {
+    color: gray;
+    font-family: 'Vollkorn SC', serif;
+}
+
+#first {
+    text-indent: 20px;
+    font-family: 'Cabin';
+    font-size: 2em;
 }
